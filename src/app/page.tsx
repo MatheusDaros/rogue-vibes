@@ -13,7 +13,7 @@ export default function Home() {
         <p className="text-lg sm:text-2xl max-w-2xl mx-auto mb-6 text-slate-200">
           The ultimate online social RPG where every decision shapes your destiny. Team up, outsmart rivals, and climb the ranks in a world that never sleeps. Are you ready to play your story?
         </p>
-        <Link href="/signup" className="inline-block bg-pink-600 hover:bg-pink-700 transition-colors px-8 py-4 rounded-full text-xl font-bold shadow-lg animate-bounce">
+        <Link href="/register" className="inline-block bg-pink-600 hover:bg-pink-700 transition-colors px-8 py-4 rounded-full text-xl font-bold shadow-lg animate-bounce">
           Create Your Account & Start Playing
         </Link>
       </section>
@@ -46,7 +46,7 @@ export default function Home() {
         <p className="max-w-3xl text-lg text-slate-200 mb-6 text-center">
           Rogue Vibes is a unique social RPG where your choices matter. Build your character, forge friendships and rivalries, and immerse yourself in a living world full of mystery and excitement. Whether you love strategy, storytelling, or competition, Rogue Vibes offers endless possibilities for every gamer.
         </p>
-        <Link href="/signup" className="inline-block bg-pink-600 hover:bg-pink-700 transition-colors px-8 py-4 rounded-full text-lg font-bold shadow-md">
+        <Link href="/register" className="inline-block bg-pink-600 hover:bg-pink-700 transition-colors px-8 py-4 rounded-full text-lg font-bold shadow-md">
           Join Now & Shape Your Destiny
         </Link>
       </section>
