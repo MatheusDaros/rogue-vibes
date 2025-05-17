@@ -1,0 +1,12 @@
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="120" height="120" rx="28" fill="#171923" opacity="1"/>
+  <g>
+    <!-- Stylized R -->
+    <path d="M38 88V32h18q10 0 10 12t-10 12h-18m18 0l14 32" stroke="#7C3AED" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <!-- Stylized V with wave -->
+    <path d="M66 68q8 20 16 0" stroke="#38BDF8" stroke-width="5" fill="none" stroke-linecap="round"/>
+    <path d="M62 88l10-28 10 28" stroke="#FBBF24" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <!-- Subtle pulse/wave at bottom -->
+  <path d="M30 104q10-8 20 0t20 0t20 0" stroke="#38BDF8" stroke-width="2" fill="none" opacity="0.7"/>
+</svg>
